@@ -1,11 +1,7 @@
-İşte düzenlenmiş ve geliştirilmiş README dosyanız:
-
 ---
-
 # 🌍 Türkiye Deprem İzleme Sistemi
 
 Bu proje, Türkiye'deki deprem aktivitelerini gerçek zamanlı olarak izlemek ve görselleştirmek amacıyla geliştirilmiş bir web uygulamasıdır. Kandilli Rasathanesi'nden alınan veriler sayesinde deprem bilgilerini il bazında detaylı bir şekilde sunar.
-
 ---
 
 ## 🌟 Özellikler
